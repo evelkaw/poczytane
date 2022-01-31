@@ -14,6 +14,7 @@
   width: 900px;
   display: flex;
   flex-direction: row;
+  overflow: scroll;
   flex-wrap: nowrap;
   align-content: flex-start;
 }

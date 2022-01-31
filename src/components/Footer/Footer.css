@@ -1,0 +1,23 @@
+.footer {
+  margin-top: 40px;
+  height: 100px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  background-color: #808080;
+}
+
+.footer .footer__text {
+  font-size: 10px;
+  padding: 20px;
+  color: #ffffff;
+  margin: auto;
+}
+/*# sourceMappingURL=Footer.css.map */

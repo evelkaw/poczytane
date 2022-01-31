@@ -8,7 +8,7 @@ export default function Card(props) {
                 <div className="card__book">
                     <h2>{props.title}</h2>
                     <p>{props.author}</p>
-                    <p>{props.rating}/5</p>
+                    <p>Ocena: {props.rating}/5</p>
                 </div>
             </div>
     )

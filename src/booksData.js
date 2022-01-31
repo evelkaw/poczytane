@@ -3,46 +3,55 @@ import mapa from './images/mapa-i-terytorium copy.jpg';
 import nowy from './images/nowy-wspanialy-swiat copy.jpg';
 import mistrz from './images/mistrz-i-malgorzata.jpg';
 import eightyone from './images/1984.jpg';
+import sezon from './images/sezon-burz.jpg';
 
 export default [
     {
+        id: 1,
         img: metro,
-        title: 'Metro',
-        author: 'DM',
+        title: 'Metro 2033',
+        author: 'Dmitry Glukhovsky',
         rating: '4',
-        // willReadAgain: {false}
     },
 
     {
+        id: 2,
         img: mapa,
         title: 'Mapa i terytorium',
-        author: 'Houllebecq',
+        author: 'Michel Houellebecq',
         rating: '3',
-        // willReadAgain: {false}
     },
 
     {
+        id: 3,
         img: nowy,
         title: 'Nowy wspaniały świat',
-        author: 'AH',
+        author: 'Aldous Huxley',
         rating: '5',
-        // willReadAgain: {true} 
     },
 
     {
+        id: 4,
         img: mistrz,
         title: 'Mistrz i Małgorzata',
-        author: 'MB',
+        author: 'Michaił Bułhakow',
         rating: '3',
-        // willReadAgain: {false}
     },
 
     {
+        id: 5,
         img: eightyone,
         title: 'Rok 1984',
-        author: 'GO',
+        author: 'George Orwell',
         rating: '5',
-        // willReadAgain: {true} 
+    },
+
+    {
+        id: 6,
+        img: sezon,
+        title: 'Sezon burz',
+        author: 'Andrzej Sapkowski',
+        rating: '4',
     }
 
 ]
