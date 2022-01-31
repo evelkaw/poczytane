@@ -7,7 +7,7 @@ export default function BooksQuotes() {
     return (
         <div className='books-container'>
                 <img src={banner} alt='Aldous Huxley' className='img'/>
-                <h1>Przeczytane książki:</h1>
+                <h2>Przeczytane książki:</h2>
         </div>
     );
 };

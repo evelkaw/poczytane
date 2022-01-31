@@ -11,10 +11,10 @@
 }
 
 .books {
-  width: 960px;
+  width: 900px;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-content: flex-start;
 }
 
