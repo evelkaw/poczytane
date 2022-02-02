@@ -1,5 +1,4 @@
 import React from 'react';
-import poczytane from '../../images/poczytane.png';
 import './Footer.css';
 
 
