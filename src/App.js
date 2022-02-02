@@ -10,10 +10,7 @@ function App() {
     return (
       <Card
         key={book.id}
-        img={book.img}
-        title={book.title}
-        author={book.author}
-        rating={book.rating}
+        {...book}
       />
     )
   });
