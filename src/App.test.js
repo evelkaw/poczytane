@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('if Przeczytane ksiazki header is in the index page', () => {
   render(<App />);
-  // const bookItem = screen.getByText(/learn react/i);
-  // expect(linkElement).toBeInTheDocument();
+  const readBooks = screen.getByText(/Przeczytane książki:/i);
+  expect(readBooks).toBeInTheDocument();
 });
