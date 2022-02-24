@@ -6,7 +6,6 @@ Poczytane is a simple react page built with Create React App.
 
 * HTML
 * CSS
-* SASS
 * JavaScript
 * React
 * Jest

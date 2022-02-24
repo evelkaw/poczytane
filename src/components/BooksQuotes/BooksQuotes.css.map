@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACb,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,GAAG;CACrB",
-    "sources": [
-        "BooksQuotes.scss"
-    ],
-    "names": [],
-    "file": "BooksQuotes.css"
-}
